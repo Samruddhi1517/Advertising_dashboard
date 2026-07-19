@@ -166,6 +166,11 @@ Advertising-Sales-Prediction/
 ### 📄Business Insights
 <img width="1358" height="644" alt="10" src="https://github.com/user-attachments/assets/5c3d478a-83f6-48d8-8526-5cff2504d58d" />
 
+---
+## 👨‍💻Live Project
+
+https://advertisingdashboard.streamlit.app
+
 
 ---
 
