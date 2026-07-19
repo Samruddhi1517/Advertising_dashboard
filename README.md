@@ -136,6 +136,13 @@ Advertising-Sales-Prediction/
 └── requirements.txt
 
 ```
+---
+## 💻Project 
+
+<img width="1358" height="644" alt="9" src="https://github.com/user-attachments/assets/a0d0937f-0c30-421c-98a8-2e87cd6366b1" />
+<img width="1358" height="644" alt="7" src="https://github.com/user-attachments/assets/83251226-20f7-4d4e-9a44-6d2661f05bba" />
+<img width="1358" height="644" alt="8" src="https://github.com/user-attachments/assets/84e485e2-2d2d-4a59-bb3a-006286680bb5" />
+
 
 ---
 
